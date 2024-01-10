@@ -1,4 +1,5 @@
 把bing小冰-2024-01-09.user.js添加到油猴
+在展示搜索结果的页面右键
 ![ec9548530c9a625e1fb302ce99d7829](https://github.com/oberdet/bingxiaobing/assets/75109722/3b84f778-45d4-4a63-be8f-5a75423eb5e3)
 在搜索页面右键呼出菜单
 
